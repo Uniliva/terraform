@@ -1,0 +1,4 @@
+terraform.tfstate
+projects/.terraform.lock.hcl
+projects/terraform.tfstate.backup
+projects/.terraform/providers/registry.terraform.io/hashicorp/aws/3.70.0/linux_amd64/terraform-provider-aws_v3.70.0_x5

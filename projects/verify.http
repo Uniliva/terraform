@@ -1,0 +1,2 @@
+# Este é um comando de uma api http, para usa-la instale um cliente http (Rest client)
+GET http://localhost:4566/health HTTP/1.1 
